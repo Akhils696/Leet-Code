@@ -6,6 +6,7 @@ This repository contains my LeetCode solutions, organized by problem number and 
 
 | Problem No. | Title | Language | File |
 | --- | --- | --- | --- |
+| 66 | Plus One | Python | `66_plus_one.py` |
 | 83 | Remove Duplicates from Sorted List | Python | `83_remove_duplicates_from_sorted_list.py` |
 | 88 | Merge Sorted Array | Python | `88_merge_sorted_array.py` |
 | 2839 | Check if Strings Can Be Made Equal With Operations I | Python | `2839_check_if_strings_can_be_made_equal_with_operations_i.py` |
