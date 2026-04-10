@@ -16,3 +16,4 @@ This repository contains my LeetCode solutions, organized by problem number and 
 | 2839 | Check if Strings Can Be Made Equal With Operations I | Python | `2839_check_if_strings_can_be_made_equal_with_operations_i.py` |
 | 2946 | Matrix Similarity After Cyclic Shifts | Python | `2946_matrix_similarity_after_cyclic_shifts.py` |
 | 3546 | Equal Sum Grid Partition I | Python | `3546_equal_sum_grid_partition_i.py` |
+| 3740 | Minimum Distance Between Three Equal Elements I | Python | `3740_minimum_distance_between_three_equal_elements_i.py` |
