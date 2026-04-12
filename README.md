@@ -15,6 +15,7 @@ This repository contains my LeetCode solutions, organized by problem number and 
 | 145 | Binary Tree Postorder Traversal | Python | `145_binary_tree_postorder_traversal.py` |
 | 196 | Delete Duplicate Emails | SQL | `196_delete_duplicate_emails.sql` |
 | 197 | Rising Temperature | SQL | `197_rising_temperature.sql` |
+| 257 | Binary Tree Paths | Python | `257_binary_tree_paths.py` |
 | 1018 | Binary Prefix Divisible By 5 | Python | `1018_binary_prefix_divisible_by_5.py` |
 | 2839 | Check if Strings Can Be Made Equal With Operations I | Python | `2839_check_if_strings_can_be_made_equal_with_operations_i.py` |
 | 2946 | Matrix Similarity After Cyclic Shifts | Python | `2946_matrix_similarity_after_cyclic_shifts.py` |
