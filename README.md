@@ -6,6 +6,7 @@ This repository contains my LeetCode solutions, organized by problem number and 
 
 | Problem No. | Title | Language | File |
 | --- | --- | --- | --- |
+| 27 | Remove Element | Python | `27_remove_element.py` |
 | 66 | Plus One | Python | `66_plus_one.py` |
 | 67 | Add Binary | Python | `67_add_binary.py` |
 | 83 | Remove Duplicates from Sorted List | Python | `83_remove_duplicates_from_sorted_list.py` |
