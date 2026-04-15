@@ -16,6 +16,7 @@ This repository contains my LeetCode solutions, organized by problem number and 
 | 145 | Binary Tree Postorder Traversal | Python | `145_binary_tree_postorder_traversal.py` |
 | 175 | Combine Two Tables | SQL | `175_combine_two_tables.sql` |
 | 176 | Second Highest Salary | SQL | `176_second_highest_salary.sql` |
+| 177 | Nth Highest Salary | SQL | `177_nth_highest_salary.sql` |
 | 196 | Delete Duplicate Emails | SQL | `196_delete_duplicate_emails.sql` |
 | 197 | Rising Temperature | SQL | `197_rising_temperature.sql` |
 | 206 | Reverse Linked List | Python | `206_reverse_linked_list.py` |
