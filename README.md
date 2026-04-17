@@ -13,6 +13,7 @@ This repository contains my LeetCode solutions, organized by problem number and 
 | 83 | Remove Duplicates from Sorted List | Python | `83_remove_duplicates_from_sorted_list.py` |
 | 88 | Merge Sorted Array | Python | `88_merge_sorted_array.py` |
 | 94 | Binary Tree Inorder Traversal | Python | `94_binary_tree_inorder_traversal.py` |
+| 100 | Same Tree | Python | `100_same_tree.py` |
 | 125 | Valid Palindrome | Python | `125_valid_palindrome.py` |
 | 144 | Binary Tree Preorder Traversal | Python | `144_binary_tree_preorder_traversal.py` |
 | 145 | Binary Tree Postorder Traversal | Python | `145_binary_tree_postorder_traversal.py` |
