@@ -1,0 +1,18 @@
+"""
+LeetCode 168. Excel Sheet Column Title
+
+Problem summary:
+- Convert a positive integer to its corresponding Excel sheet column title.
+"""
+
+
+class Solution:
+    def convertToTitle(self, columnNumber):
+        result = ""
+
+        while columnNumber > 0:
+            columnNumber -= 1
+            result = chr(columnNumber % 26 + 65) + result
+            columnNumber //= 26
+
+        return result
