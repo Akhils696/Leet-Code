@@ -19,6 +19,7 @@ This repository contains my LeetCode solutions, organized by problem number and 
 | 125 | Valid Palindrome | Python | `125_valid_palindrome.py` |
 | 144 | Binary Tree Preorder Traversal | Python | `144_binary_tree_preorder_traversal.py` |
 | 145 | Binary Tree Postorder Traversal | Python | `145_binary_tree_postorder_traversal.py` |
+| 169 | Majority Element | Python | `169_majority_element.py` |
 | 175 | Combine Two Tables | SQL | `175_combine_two_tables.sql` |
 | 176 | Second Highest Salary | SQL | `176_second_highest_salary.sql` |
 | 177 | Nth Highest Salary | SQL | `177_nth_highest_salary.sql` |
