@@ -25,6 +25,7 @@ This repository contains my LeetCode solutions, organized by problem number and 
 | 176 | Second Highest Salary | SQL | `176_second_highest_salary.sql` |
 | 177 | Nth Highest Salary | SQL | `177_nth_highest_salary.sql` |
 | 181 | Employees Earning More Than Their Managers | SQL | `181_employees_earning_more_than_their_managers.sql` |
+| 182 | Duplicate Emails | SQL | `182_duplicate_emails.sql` |
 | 196 | Delete Duplicate Emails | SQL | `196_delete_duplicate_emails.sql` |
 | 197 | Rising Temperature | SQL | `197_rising_temperature.sql` |
 | 206 | Reverse Linked List | Python | `206_reverse_linked_list.py` |
