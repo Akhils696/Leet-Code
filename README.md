@@ -40,6 +40,7 @@ This repository contains my LeetCode solutions, organized by problem number and 
 | 257 | Binary Tree Paths | Python | `257_binary_tree_paths.py` |
 | 258 | Add Digits | Python | `258_add_digits.py` |
 | 263 | Ugly Number | Python | `263_ugly_number.py` |
+| 268 | Missing Number | Python | `268_missing_number.py` |
 | 1018 | Binary Prefix Divisible By 5 | Python | `1018_binary_prefix_divisible_by_5.py` |
 | 2839 | Check if Strings Can Be Made Equal With Operations I | Python | `2839_check_if_strings_can_be_made_equal_with_operations_i.py` |
 | 2946 | Matrix Similarity After Cyclic Shifts | Python | `2946_matrix_similarity_after_cyclic_shifts.py` |
